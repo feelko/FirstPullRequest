@@ -18,6 +18,13 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Anusionwu, Ije (@IAmIje)
 
+Free-Style Lyrics (First Draft):
+
+My name is Ijeoma
+And I can put you in a coma
+Cuz I got peeps in Oklahoma
+And will straight fade you with my Haas diploma
+
 - [ ] Berren, Becca
 
 - [ ] Bertels, John

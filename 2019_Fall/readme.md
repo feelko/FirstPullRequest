@@ -45,7 +45,7 @@ And will straight fade you with my Haas diploma
 
 - [ ] Farsio, Sara
 
-- [ ] Filatov, Anton
+- [X] Filatov, Anton (@feelko)
 
 - [ ] Florez, Julian
 
